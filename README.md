@@ -1,7 +1,7 @@
 # Guide-to-Web-Developer
 
 
-Complete Guide 
+-----------Complete Guide ---------------
 
 HTML/CSS are always the first thing you want to learn
 
@@ -20,7 +20,7 @@ RESPONSIVE DESIGN:-
 4.rem units over px
 5.Mobile First.
 
-Custom Reusable CSS Components
+----------Custom Reusable CSS Components--------------
 
 Create your own modular, reusable CSS components to use in your projects.
 Frameworks seem to be a bit less popular
